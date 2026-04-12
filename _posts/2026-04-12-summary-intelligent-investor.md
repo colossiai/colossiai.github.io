@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Summary on "Intelligent Investor"
 date: 2026-04-12
 ---

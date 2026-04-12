@@ -124,10 +124,3 @@ Graham emphasizes:
 * Forms the foundation of modern value investing
 * Still relevant despite today’s algorithm-driven markets
 
----
-
-If you want, I can:
-
-* break it into **actionable rules**
-* compare it with modern investing (ETF, crypto, AI trading)
-* or give a **1-page cheat sheet for quick reference**

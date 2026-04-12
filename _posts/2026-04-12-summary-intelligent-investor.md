@@ -1,7 +1,13 @@
 ---
-layout: post
+layout: single
 title: 'Summary on "Intelligent Investor"'
 date: 2026-04-12
+categories:
+  - Books
+tags:
+  - investing
+  - finance
+excerpt: "A summary of Benjamin Graham's classic on value investing, discipline, and long-term thinking."
 ---
 
 # Summarize the book "Intelligent Investor"

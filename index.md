@@ -1,6 +1,5 @@
 ---
 layout: home
-title: My Notes
+title: "Welcome"
+author_profile: true
 ---
-
-Welcome!

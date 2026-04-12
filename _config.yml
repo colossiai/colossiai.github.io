@@ -1,3 +1,42 @@
-title: My Notes
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+title: Explore the world
+subtitle: Interesting notes
 description: Interesting notes
-theme: minima
+url: "https://colossiai.github.io"
+
+# Site Author
+author:
+  name: "Colossiai"
+
+# Reading
+words_per_minute: 200
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-paginate
+
+# Skin
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Pagination
+paginate: 10
+paginate_path: /page:num/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      show_date: true
+      read_time: true
+      share: true
+      related: true
+      toc: true
+      toc_sticky: true

@@ -1,5 +1,9 @@
 # My Notes
 
+Welcome!
+
 ## Posts
 
-- [First Post](placeholder.html)
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}

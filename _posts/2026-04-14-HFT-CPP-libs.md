@@ -313,11 +313,6 @@ If you want to build / break into HFT:
 
 ---
 
-If you want, I can:
-
-* show a **minimal C++ HFT skeleton (ring buffer + UDP + order book)**
-* or map **which firms use which stacks (Jane Street, Jump, Citadel)**
-
 [1]: https://electronictradinghub.com/why-c-dominates-low-latency-trading-systems-determinism-memory-control-and-the-critical-path/?utm_source=chatgpt.com "Why C++ Dominates Low-Latency Trading Systems: Determinism, Memory Control, and the Critical Path - Electronic Trading Hub"
 [2]: https://www.bytesqube.com/modern-c-for-low-latency-systems-beginner-%E2%86%92-hft-level/?utm_source=chatgpt.com "Modern C++ for Low-Latency Systems (Beginner → HFT Level) - BytesQube"
 [3]: https://github.com/omerhalid/Real-Time-Market-Data-Feed-Handler-and-Order-Matching-Engine?utm_source=chatgpt.com "GitHub - omerhalid/Real-Time-Market-Data-Feed-Handler-and-Order-Matching-Engine: High-Frequency Trading (HFT) order matching engine optimized for low latency. Features NUMA-aware memory allocation, thread pinning, RDTSC timestamps, lock-free SPSC queues, async logging, and UDP busy polling. Built with C++20 for Linux production environments."
